@@ -1,0 +1,48 @@
+-Areas: Hospital, housing, agriculture, Economy, Environment
+-Cleaning dataset
+- After cleaning minimuns: 10K Rows  12 Columns
+
+- Problem description
+	- Intro and objective
+	- Dataset Chosen reasoning
+- Motivation and Challenges
+	- Present the challenges the dataset shows initially
+	- Identify Cathegorical discrete and continous data
+	- Questions about the data quality
+	- Show pre-conceptions about the data and how we intend to explore it.
+	- Questions for Acquiring knowledge of data.
+	- Description and explanation of the techiniques we used for the data analisys.
+- Data Statistical parameters (mean, median,minimun, maximun, deviation)
+	- Question parameters and tendencies.
+	- What does that means for the data?
+	- Does that consists with the main conceptions?
+-Apply normalizations/standardization Scalar on numerical data. 
+	- How can we explore the data with these normalizations?
+	- Does that changes any understanding of the data?
+-Line, scatter and Heatmaps for correlation between features
+	- Reasoning for the correlations
+	- What can we learn from these plots?
+- Data exploratory Analisys; identification of sub-groups of features and new learnings we explored.
+	- What new was learned from the Analisys done so far?
+	- Is something not explored? why can't we explore this?
+	- Are the new findings beliveable or is the data compromised? how?
+- Apply dummy encoding to categorical cathegories
+	- How does this work and what's the reasoning behind it?
+	- what new can be learned about the dataset?
+	- pros and cons from how the applied Dummy encoding can be interpreted and how relevant is it for the data
+- Apply PCA with a chosen number of components
+	- The profile of the components extracted
+	- The correlation between the components is real?
+	- The distance between items have an explanation?
+	- The profile of the analisys answers a question? which one?
+- What is the purpose of Dimentionality reduction?
+	- What is Dimentionality reduction? (PCA)
+	- When Dimentionality reduction should be used?
+	- What we learned using it?
+- Data understanding
+	- Was the data plenty explored? if not why?
+	- What can be learned after all the data exploration done?
+	- How valid this new knowledge is? does the data demands any correction or more data?
+	- how can the information learned from the data be used?
+-Conclusion
+-References
